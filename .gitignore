@@ -12,3 +12,5 @@ bin/
 *.iml
 *.ipr
 extensions/**/build/
+
+.DS_Store
